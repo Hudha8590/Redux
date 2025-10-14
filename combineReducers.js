@@ -1,6 +1,7 @@
 import { createStore } from "redux";
 import { combineReducers } from "redux";
 
+
 //create individual reducers:
 const cakeInitialState={
     numOfCakes:10
